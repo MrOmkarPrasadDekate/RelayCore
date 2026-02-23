@@ -30,7 +30,7 @@ Instead of making synchronous HTTP calls that can fail and slow down your primar
 * Auto-generated Superagent API Client
 
 **Infrastructure:**
-* Docker & Docker Compose (Kafka, Zookeeper, PostgreSQL)
+* Docker & Docker Compose (Kafka, PostgreSQL)
 
 ---
 
