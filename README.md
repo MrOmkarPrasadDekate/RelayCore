@@ -36,15 +36,17 @@ Instead of making synchronous HTTP calls that can fail and slow down your primar
 
 ## 📂 Project Structure
 
-\`\`\`text
-.
 ├── .mvn/                  # Maven wrapper config
+
 ├── relaycore-ui/          # React frontend (Vite)
+
 ├── src/                   # Spring Boot Java source code
-├── docker-compose.yml     # Infrastructure (Kafka, Zookeeper, Postgres)
+
+├── docker-compose.yml     # Infrastructure (Kafka, Postgres)
+
 ├── pom.xml                # Backend dependencies
+
 └── README.md              # You are here!
-\`\`\`
 
 ---
 
